@@ -1,2 +1,2 @@
-# programacaoFrameworks
-Disciplina de Programação com Frameworks - Novembro de 2017
+# Programação Frameworks
+Arquivos do módulo "Desenvolvimento com Frameworks e Componentes" da Especialização em Arquitetura e Engenharia de Software da ALFA
